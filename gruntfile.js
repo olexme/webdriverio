@@ -146,7 +146,7 @@ module.exports = function (grunt) {
         bump: {
             options: {
                 commitMessage: 'v%VERSION%',
-                pushTo: 'upstream'
+                pushTo: 'origin'
             }
         },
         watch: {
