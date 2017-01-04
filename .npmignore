@@ -2,9 +2,6 @@
 *.js
 examples
 test
-lib
-lib/**/*.ejs
 
 
-!lib/commands/*.js
-!lib/protocol/*.js
+
