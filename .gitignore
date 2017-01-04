@@ -8,6 +8,5 @@ coverage
 .idea
 
 
-/*.js
 !gruntfile.js
 !index.js
